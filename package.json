@@ -1,0 +1,8 @@
+{
+  "name": "aa",
+  "version": "0.0.0",
+  "description": "",
+  "devDependencies": {
+    "ws": "^0.8.0"
+  }
+}

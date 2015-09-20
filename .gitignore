@@ -1,0 +1,21 @@
+/target
+/classes
+/checkouts
+pom.xml
+pom.xml.asc
+*.jar
+*.class
+/.lein-*
+/.nrepl-port
+.hgignore
+.hg/
+
+node_modules/
+figwheel_server.log
+
+# ignore app dir
+app/
+# but not these file
+!app/main.js
+!app/index.html
+!app/package.json
