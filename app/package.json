@@ -1,0 +1,6 @@
+{
+        "name": "electron_test",
+        "version": "0.0.1",
+        "description": "A simeple example for cljs with electron",
+        "main" : "main.js"
+}
